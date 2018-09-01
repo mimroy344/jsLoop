@@ -2,23 +2,30 @@
 1.cost of eggs --calculator
 2.area of circle --calculator
 3.usd to bdt --calculator
-4.remainder --show
+4.remainder --shows
+
 //2.increment & compound assignment operator
 1.pre & post increment --compound assignment operaotr
+
 //3.decrement & compound assignment operator
 1.pre & post decrement
+
 //4.condition
 1.comparison operator --smaller or greater
 2.if conditional statement --jamal&Kamal nesting
 3.if multiple statement check--they are brother
+
 //5.nesting
 1.if nesting  --prime number
 2.positive & negative number
 3.even & odd 
+
 //6.movie
 1.movie Rating --calculate
+
 //7.age -calculate
 1.your age to condition--adult ,teenager,baby
+
 //8.ternary
 1.ternary operator --even,positive
 
@@ -90,6 +97,7 @@
 3.shift
 4.unshift
 
+
 // 23.delete
 1.delete method
 
@@ -110,11 +118,13 @@
 4.deep copy solution with [...arr]
 5.deep copy solution with Array.from(arr)//arr is (arr name)
 
+
 // 27.merge(addition)
 1.sequence concate 
 2.unsequence concate 
 3.multiple way
 4.arr.concate(arr,arr)
+
 
 // 28.traverse
 1.traverse
@@ -142,3 +152,23 @@
 1.how many word in a sentense 
 2.how many character length in a sentense 
 3.how many alphabet in a sentense 
+
+// 33.function
+1.function with parametar
+2.function return data
+
+// 34. function with parametar default value
+1.default value use 
+
+// 35.reveser function
+1.reverse function 
+
+// 36.spread operator
+1.spread operator
+
+//37.pramiter & argument
+1.pramiter & argument
+
+// 38.scope of variable
+1.var 
+2.let
